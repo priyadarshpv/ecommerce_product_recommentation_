@@ -1,6 +1,3 @@
-Here's a README for your project:
-
----
 
 # Amazon Product Recommendation System
 
@@ -137,6 +134,3 @@ pip install pandas scikit-learn fuzzywuzzy[speedup] nltk
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
---- 
-
-Let me know if you'd like to further customize this README!
